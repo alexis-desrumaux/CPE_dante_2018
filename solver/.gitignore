@@ -1,0 +1,4 @@
+*.o
+libmy.a
+$(NAME)
+.vscode

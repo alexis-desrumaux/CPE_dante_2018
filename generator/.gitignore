@@ -1,0 +1,6 @@
+*.o
+libmy.a
+$(NAME)
+.vscode
+generator/generator
+solver/solver
